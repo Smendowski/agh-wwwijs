@@ -1,1 +1,1 @@
-# agh-wwwijs
+# AGH WWWiJS lab classes
